@@ -7,7 +7,7 @@ module.exports = {
         ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
     ],
     dest: 'docs',
-    base: '/docu-visual-studio-code ',
+    base: '/docu-visual-studio-code',
 
     themeConfig: {
         editLinks: false,
